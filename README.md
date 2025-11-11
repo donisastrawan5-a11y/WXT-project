@@ -1,0 +1,2 @@
+# WXT-project
+browser extention
